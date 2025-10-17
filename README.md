@@ -130,10 +130,6 @@ The script includes error handling for common scenarios:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Disclaimer
 
 This tool is for educational purposes only. Users are responsible for ensuring their use of this tool complies with LinkedIn's terms of service and applicable laws.
